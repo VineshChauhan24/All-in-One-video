@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/All_in_One_video.iml" filepath="$PROJECT_DIR$/.idea/modules/All_in_One_video.iml" group="All_in_One_video" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="All in One video/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nemosofts/nemosofts.iml" filepath="$PROJECT_DIR$/.idea/modules/nemosofts/nemosofts.iml" group="All in One video/nemosofts" />
+    </modules>
+  </component>
+</project>

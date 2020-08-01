@@ -1,0 +1,3 @@
+include ':nemosofts'
+include ':app'
+rootProject.name = "All in One video"

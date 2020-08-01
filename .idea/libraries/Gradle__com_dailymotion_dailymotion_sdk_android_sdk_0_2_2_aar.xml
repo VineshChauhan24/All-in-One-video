@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dailymotion.dailymotion-sdk-android:sdk:0.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd849aca409fccf079e3a9a13faff6a2/jetified-sdk-0.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd849aca409fccf079e3a9a13faff6a2/jetified-sdk-0.2.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dailymotion.dailymotion-sdk-android/sdk/0.2.2/73860222063aab89d2fee9c028fcf180738b332c/sdk-0.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
